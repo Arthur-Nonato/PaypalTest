@@ -1,0 +1,11 @@
+header {
+  padding: 18px;
+  background-color: #0d50a3;
+  position: sticky;
+}
+
+body .content {
+  background-color: #f5f7fa;
+  font-family: Arial, sans-serif;
+  color: #888888;
+}
